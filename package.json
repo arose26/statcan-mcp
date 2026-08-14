@@ -1,6 +1,7 @@
 {
   "name": "statcan-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.arose26/statcan-mcp",
   "description": "MCP server for Statistics Canada's Web Data Service — live Canadian statistics (CPI, GDP, labour force, housing, population) for Claude and other LLMs",
   "type": "module",
   "bin": {
